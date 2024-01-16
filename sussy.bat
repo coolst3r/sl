@@ -10,7 +10,7 @@ REM Change directory to the cloned repository
 cd db1
 
 REM Install required Python packages
-pip install -r requirements.txt
+pip install pywin32
 
 REM Run the Python script
 python lolz.py
